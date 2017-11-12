@@ -1,1 +1,4 @@
-repo_name: "pack-g"
+repo_name: "pack-g";
+gistpack: >
+  - terminal: "apple_terminal"
+  - gistpack_name: "gistpack-1"
